@@ -1,20 +1,9 @@
+#!/bin/bash
 apt update
 apt install openssh-server
 systemctl start ssh.socket
-
-
 msfdb init
 armitage
-armitage
-
-
-//monitorar recursos pc
-apt install netdata
-systemctl start netdata.service
-
-nova informação
-
-atualização 2
 
 
 

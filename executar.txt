@@ -14,7 +14,7 @@ systemctl start netdata.service
 
 nova informação
 
-atualização
+atualização 2
 
 
 

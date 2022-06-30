@@ -12,5 +12,7 @@ armitage
 apt install netdata
 systemctl start netdata.service
 
+nova informação
+
 
 

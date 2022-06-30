@@ -4,6 +4,6 @@ apt install openssh-server
 systemctl start ssh.socket
 msfdb init
 apt install armitage
-armitge
+armitage
 
 

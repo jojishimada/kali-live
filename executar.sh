@@ -2,7 +2,7 @@
 apt update
 apt install openssh-server
 systemctl start ssh.socket
-apt install owasp
+wget https://github.com/zaproxy/zaproxy/releases/download/v2.11.1/ZAP_2_11_1_unix.sh
 owasp
 msfdb init
 apt install armitage
